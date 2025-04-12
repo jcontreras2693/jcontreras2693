@@ -11,6 +11,10 @@ A curious builder passionate about crafting scalable systems that balance perfor
 🤖 Believer in AI as a force multiplier for developer productivity
 
 ### 🛠️ **Tech Stack**
+**Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
 **Backend**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,6 +24,8 @@ A curious builder passionate about crafting scalable systems that balance perfor
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00ADD8?style=flat&logo=langchain&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-FFD700?style=flat&logo=openai&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -47,10 +53,10 @@ Augmented reality interior design visualization system
 _Reduced traditional remodeling issues_
 
 ### 📚 **Current Focus**
-▶️ Leveling up **React** patterns & Spring Boot microservices  
-▶️ Exploring MLOps pipelines for model deployment  
-▶️ Deep diving into cloud architecture (AWS/Azure certifications)  
-▶️ Expanding data analysis skills with Python ecosystem
+▶️ Leveling up **React** patterns and **Spring Boot** microservices  
+▶️ Building practical **AI/ML** solutions with Python's ecosystem  
+▶️ Leveling up cloud architecture skills on **AWS/Azure**  
+▶️ Expanding **data analysis** skills 
 
 ### 📊 **GitHub Analytics**
 
