@@ -1,4 +1,4 @@
-## Hi there, I'm Juan 👋
+## Hi, I'm Juan 👋
 
 **🎓 Software Engineering Student** | **Backend Developer** | **Cloud & AI Explorer**
 
@@ -54,11 +54,11 @@ _Reduced traditional remodeling issues_
 
 ### 📊 **GitHub Analytics**
 
-[![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcontreras2693&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcontreras2693&include_all_commits=true&count_private=true&include_orgs=true&include_forks=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jcontreras2693&theme=dark)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&layout=compact&include_orgs=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-contreras-becerra/)
