@@ -1,8 +1,8 @@
-## Hi, I'm Juan 👋
+## Hi, I'm Juan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 **🎓 Software Engineering Student** | **Backend Developer** | **Cloud & AI Explorer**
 
-### 💡 **About Me**
+### ✨ **About Me**
 A curious builder passionate about crafting scalable systems that balance performance with maintainability. Currently merging academic foundations with hands-on experimentation in cloud-native development and AI integration.
 
 **Development Philosophy**  
@@ -10,7 +10,7 @@ A curious builder passionate about crafting scalable systems that balance perfor
 🌱 Advocate of iterative improvement through CI/CD and containerization  
 🤖 Believer in AI as a force multiplier for developer productivity
 
-### 🛠️ **Tech Stack**
+### 💻 **Tech Stack**
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -60,11 +60,11 @@ _Reduced traditional remodeling issues_
 
 ### 📊 **GitHub Analytics**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcontreras2693&include_all_commits=true&count_private=true&include_orgs=true&include_forks=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcontreras2693&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jcontreras2693&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jcontreras2693&theme=gotham&hide_border=false)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&layout=compact&include_orgs=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&theme=gotham&hide_border=false&layout=compact&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-contreras-becerra/)
