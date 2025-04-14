@@ -1,8 +1,8 @@
-## Hi, I'm Juan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Juan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 **🎓 Software Engineering Student** | **Backend Developer** | **Cloud & AI Explorer**
 
-### ✨ **About Me**
+# ✨ **About Me**
 A curious builder passionate about crafting scalable systems that balance performance with maintainability. Currently merging academic foundations with hands-on experimentation in cloud-native development and AI integration.
 
 **Development Philosophy**  
@@ -10,7 +10,7 @@ A curious builder passionate about crafting scalable systems that balance perfor
 🌱 Advocate of iterative improvement through CI/CD and containerization  
 🤖 Believer in AI as a force multiplier for developer productivity
 
-### 💻 **Tech Stack**
+# 💻 **Tech Stack**
 **Frontend**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -36,36 +36,37 @@ A curious builder passionate about crafting scalable systems that balance perfor
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🚀 **Featured Projects**
-**SQAG** | [Front](https://github.com/AnaDuranB/SCAG-Frontend) | [Back](https://github.com/jcontreras2693/SQAG_Backend)  
+# 🚀 **Featured Projects**
+- **SQAG** | [Front](https://github.com/AnaDuranB/SCAG-Frontend) | [Back](https://github.com/jcontreras2693/SQAG_Backend)  
 AI-powered academic assessment generator using transfer learning  
 `Tech`: Python • TensorFlow • Transformers • Squad 2.0 Datasets  
-_Generated multiple-choise questions and answers from academic texts_
+_Multiple-choise questions and answers generator from academic texts_
 
-**Gridmaster** | [Front](https://github.com/jcontreras2693/GridMaster_Frontend) | [Back](https://github.com/jcontreras2693/GridMaster_Backend)  
+- **Gridmaster** | [Front](https://github.com/jcontreras2693/GridMaster_Frontend) | [Back](https://github.com/jcontreras2693/GridMaster_Backend)  
 Real-time multiplayer gaming platform with cloud scaling  
 `Tech`: Java • JavaScript • Azure • SpringBoot  
 _Handled 30+ concurrent players with <1s latency_
 
-**Renovar** | [Organization](https://github.com/IETI-RenovAR)  
+- **Renovar** | [Organization](https://github.com/IETI-RenovAR)  
 Augmented reality interior design visualization system  
 `Tech`: Spring Boot • React • Docker • MongoDB • Azure  
 _Reduced traditional remodeling issues_
 
-### 📚 **Current Focus**
-▶️ Leveling up **React** patterns and **Spring Boot** microservices  
-▶️ Building practical **AI/ML** solutions with Python's ecosystem  
-▶️ Leveling up cloud architecture skills on **AWS/Azure**  
-▶️ Expanding **data analysis** skills 
+# 📚 **Current Focus**
+- Leveling up **React** and **Spring Boot** skills 
+- Building practical **AI/ML** solutions with Python's ecosystem  
+- Leveling up cloud architecture skills on **AWS/Azure**  
+- Expanding **Data Analysis** skills 
 
-### 📊 **GitHub Analytics**
+# 📊 **GitHub Analytics**
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jcontreras2693&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=jcontreras2693&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&include_orgs=true&include_forks=true)<br/>
+![](https://streak-stats.demolab.com/?user=jcontreras2693&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&theme=gotham&hide_border=false&layout=compact&include_orgs=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jcontreras2693&theme=gotham&hide_border=false)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jcontreras2693&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcontreras2693&theme=gotham&hide_border=false&layout=compact&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats)
-
-📫 **Let's Connect**  
+## 📫 **Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-david-contreras-becerra/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.contrerasb2693@gmail.com)
